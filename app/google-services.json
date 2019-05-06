@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "623439974255",
+    "firebase_url": "https://snapcopy-5fd59.firebaseio.com",
+    "project_id": "snapcopy-5fd59",
+    "storage_bucket": "snapcopy-5fd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623439974255:android:d9273ba990a17e2f",
+        "android_client_info": {
+          "package_name": "com.example.sky.snapcopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623439974255-e5bt49bt0bu15i1opf9b5h8qkkbbctvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukNWIqEJWbmVhmCGfBgRbAs7E89SRoAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
